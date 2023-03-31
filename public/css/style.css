@@ -99,12 +99,18 @@ h2 {
     height: auto;
     border-radius: 5px;
 }
+.item-name {
+    font-size: 15px;
+    font-weight: bold;
+    margin-bottom: 5px;
+}
 .item-name,
 .item-color,
 .item-genre {
     font-size: 15px;
     color: var(--lighter);
     margin-bottom: 3px;
+   
 }
 
 footer {
